@@ -1,9 +1,9 @@
 {
-    "name": "dcat-admin-extensions/village_distpicker",
+    "name": "MengXiao-R/village_distpicker",
     "description": "VillageDistpicker extension for dcat-admin",
     "type": "library",
     "keywords": ["dcat-admin", "extension","distpicker","village"],
-    "homepage": "https://github.com/dcat-admin-extensions/village_distpicker",
+    "homepage": "https://github.com/MengXiao-R/village_distpicker.git",
     "license": "MIT",
     "authors": [
         {
