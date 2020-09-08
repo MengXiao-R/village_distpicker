@@ -1,0 +1,26 @@
+{
+    "name": "dcat-admin-extensions/village_distpicker",
+    "description": "VillageDistpicker extension for dcat-admin",
+    "type": "library",
+    "keywords": ["dcat-admin", "extension","distpicker","village"],
+    "homepage": "https://github.com/dcat-admin-extensions/village_distpicker",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mengxiao",
+            "email": "948585377@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0",
+        "dcat/laravel-admin": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dcat\\Admin\\Extension\\VillageDistpicker\\": "src/"
+        },
+         "files": [
+            "src/bootstrap.php"
+        ]
+    }
+}
